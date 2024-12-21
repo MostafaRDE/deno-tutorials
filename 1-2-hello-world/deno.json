@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "@luca/cases": "jsr:@luca/cases@^1.0.0"
+  }
+}

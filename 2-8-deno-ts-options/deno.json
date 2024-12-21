@@ -1,0 +1,13 @@
+{
+    "imports": {
+        "hono": "npm:hono",
+        "zod": "npm:zod",
+        "@hono/zod-validator": "npm:@hono/zod-validator"
+    },
+    "compilerOptions": {
+        "lib": [
+            
+        ],
+        "checkJs": true
+    }
+}

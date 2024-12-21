@@ -1,0 +1,10 @@
+{
+    "imports": {
+        "react": "npm:react"
+    },
+    "compilerOptions": {
+        "lib": [ "dom", "dom.iterable", "esnext" ],
+        "jsx": "react-jsx",
+        "jsxImportSource": "react"
+    }
+}
